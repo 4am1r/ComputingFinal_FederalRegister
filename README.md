@@ -1,4 +1,4 @@
-# Final project: [working title]
+# Final project: Federal Register AI Policy
 
 Use this repository for your COMPSS 211A team project. Replace the bracketed
 prompts as your project develops. A reader should eventually be able to use
@@ -7,10 +7,10 @@ your question, evidence, interpretation, and limitations.
 
 ## Project overview
 
-- **Research question:** [What are you trying to learn?]
-- **Team members:** [Names]
-- **Unit of analysis:** [What does one row or document represent?]
-- **Data source:** [Where do the data come from?]
+- **Research question:** Since 2020, how have the Trump and Biden administrations approached utilizing and (de)regulating Artificial Intelligence and interrelated industries in the following areas: Labor, Defense, and Environment?
+- **Team members:** Aamir Haq, Jasmeet Khamba, AJ Jiang
+- **Unit of analysis:** Individual document from Federal Register (?)
+- **Data source:** Federal Register
 - **Main result:** [Complete this after the analysis.]
 - **Important limitation:** [Complete this as soon as you identify one.]
 

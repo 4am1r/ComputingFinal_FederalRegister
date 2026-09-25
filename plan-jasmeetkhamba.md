@@ -10,3 +10,5 @@ Next step: What should we check first?
 Improve our AI search terms, then look at the documents to figure out the best way to identify and compare AI policy topics over time and across federal agencies.
 
 Sub-research question: How does the federal government discuss AI in relation to workers, employment, skills, automation, displacement, or workforce development?
+
+Line of DOL
